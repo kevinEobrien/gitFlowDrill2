@@ -6,3 +6,5 @@ We are practicing the feature branch git workflow.
 Kevin Task 1:You should create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter.
 
 Brandon Task 1: You should create a new CSS file. Link to it from one of your HTML files.
+
+Kevin Task 2: Add a directory and put at a file in that directory.
