@@ -11,6 +11,8 @@ Kevin Task 2: Add a directory and put at a file in that directory.
 
 Brandon Task 2: You should create a new directory. Move at least one file into that directory.
 
+Kevin Task 3: You should create a new CSS file. Link to it from one of your HTML files.
+
 ---
 
 ## Instructions
