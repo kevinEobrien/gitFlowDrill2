@@ -13,6 +13,8 @@ Brandon Task 2: You should create a new directory. Move at least one file into t
 
 Kevin Task 3: You should create a new CSS file. Link to it from one of your HTML files.
 
+Brandon Task 3: You should create an array of objects. Each object should have a name and age.
+
 ---
 
 ## Instructions
