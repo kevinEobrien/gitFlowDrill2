@@ -15,6 +15,8 @@ Kevin Task 3: You should create a new CSS file. Link to it from one of your HTML
 
 Brandon Task 3: You should create an array of objects. Each object should have a name and age.
 
+Kevin Task 4: You should delete a file other than index.html.
+
 ---
 
 ## Instructions
