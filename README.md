@@ -17,6 +17,8 @@ Brandon Task 3: You should create an array of objects. Each object should have a
 
 Kevin Task 4: You should delete a file other than index.html.
 
+Kevin Task 5: You should edit five CSS properties.
+
 ---
 
 ## Instructions
