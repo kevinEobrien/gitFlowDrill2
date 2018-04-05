@@ -3,13 +3,13 @@ header {
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 10px;
   align-items: end;
-  border-bottom: 0.3rem solid darkgrey;
+  border-bottom: 0.3rem solid slategray;
 }
 
 h1 {
   grid-column: 1 / span 2;
-  margin-left: 1rem;
-  color: orange;
+  margin-left: 2rem;
+  color: cornflowerblue;
 }
 
 nav {
@@ -18,6 +18,6 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: darkgrey;
-  font-size: ;
+  color: rebeccapurple;
+  font-size: 3rem;
 }
